@@ -770,7 +770,6 @@ model = MarketRegimeHMM(
 **Avni Derashree**
 
 - GitHub: [@avniderashree](https://github.com/avniderashree)
-- Email: avniderashree@gmail.com
 
 ---
 
